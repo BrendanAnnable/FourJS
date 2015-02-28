@@ -1,0 +1,13 @@
+{
+  "name": "fourjs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Twelve-60/FourJS",
+  "authors": [
+    "Brendan Annable <brendan@annable.id.au>"
+  ],
+  "main": "FourJS.js",
+  "license": "GPL",
+  "private": false,
+  "ignore": [],
+  "dependencies": {}
+}
